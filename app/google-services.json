@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68300062573",
+    "project_id": "weatherdiary-1f926",
+    "storage_bucket": "weatherdiary-1f926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68300062573:android:cdbd6e2837b4d009362464",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkCo54914yeIwPTyWRuTwyxrZ9sK32JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
